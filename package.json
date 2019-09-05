@@ -1,0 +1,26 @@
+{
+  "name": "limbo-bp",
+  "version": "0.0.1",
+  "description": "\"Create React + TypeScript + MobX + SASS boilerplate\"",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/limbosounds/limbo-bp.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "mobx",
+    "sass",
+    "boilerplate"
+  ],
+  "author": "Limbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limbosounds/limbo-bp/issues"
+  },
+  "homepage": "https://github.com/limbosounds/limbo-bp#readme"
+}
